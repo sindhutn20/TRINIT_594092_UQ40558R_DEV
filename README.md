@@ -7,7 +7,7 @@
 
 When you login as a Philantropist , you will be redirected to a webpage containing a list of NGO's specifying their previous works,  Goal , Plans , overall impact on environment and society  and their funding needs .Additionally each NGO  is also categorised as "Orphanage type donation " or  " social cause donation " or " donation for educational institutions " 
 Depending upon this category , any philanthropist can select to the respective domain of NGO he/she wants to donate.
-
+![img1](https://user-images.githubusercontent.com/125118272/218262586-bfbe4933-31e0-4388-bfa7-af0cbed89fa5.jpg)
 
 
 When a philantropists wishes to donate to a particular NGO say "ABC" he may send a message by clicking  on "SEND MSG"
@@ -16,6 +16,7 @@ available , upon clicking it , he would be directed to particular NGO's mail add
 In this way any philantrophist may create their profile by clicking on " ADD NEW " feature and connect to any NGO he wishes to donate
 In the same way 
 When you login as NGO that is you wish to connect with philantrophists to advertise about your NGO , you will be redirected to a webpage which consists of profiles of all philanthropists 
+
 
 This profile of philanthropists consists about their donation preferences that is to what kind of NGO they wish to donate 
 

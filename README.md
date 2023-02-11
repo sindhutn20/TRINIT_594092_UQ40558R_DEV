@@ -17,6 +17,8 @@ In this way any philantrophist may create their profile by clicking on " ADD NEW
 In the same way 
 When you login as NGO that is you wish to connect with philantrophists to advertise about your NGO , you will be redirected to a webpage which consists of profiles of all philanthropists 
 
+![img2](https://user-images.githubusercontent.com/125118272/218262750-cb669007-0eea-4100-aa9d-498feaabf73c.jpg)
+
 
 This profile of philanthropists consists about their donation preferences that is to what kind of NGO they wish to donate 
 
